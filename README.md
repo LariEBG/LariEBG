@@ -5,9 +5,7 @@
     <br>
     <h3>Formação</h3>
     Iniciei graduação em Biologia, mas atualmente entou em processo de fomação de Full Stack Web Developer pela 
-    <nav>
-    <a href="https://www.growdev.com.br/" alt="Growdev"></a>
-    </nav>
+    <a href="https://www.growdev.com.br/">Growdev</a>
     <br>
     <h3>O que estou estudando atualmente</h3>
     Atualmente estou em introdução em Front-end focado em HTML.
