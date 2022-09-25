@@ -1,16 +1,17 @@
 <h1>Olá, eu sou a Larissa! 👋</h1>
     <br />
     <h3> Sobre mim</h3>
-    Gosto de esportes radicais na natureza e correr. Gosto de ler e assistir
-    filmes. <br />
+    Gosto de esportes radicais na natureza e correr. Gosto de ler e assistir filmes. 
+    <br>
     <h3>Formação</h3>
-    Iniciei graduação em Biologia, mas atualmente entou em processo de fomação
-    de Full Stack Web Developer pela
+    Iniciei graduação em Biologia, mas atualmente entou em processo de fomação de Full Stack Web Developer pela 
+    <nav>
     <a href="https://www.growdev.com.br/" alt="Growdev"></a>
-    <br />
-    <h3> O que estou estudando atualmente</h3>
+    </nav>
+    <br>
+    <h3>O que estou estudando atualmente</h3>
     Atualmente estou em introdução em Front-end focado em HTML.
-    <br />
+    <br>
     <h3>Siga-me</h3>
     <a href="https://www.instagram.com/larissaegiordani/" alt="instagram">
       <img
