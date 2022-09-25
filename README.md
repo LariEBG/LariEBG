@@ -1,6 +1,6 @@
 <h1>Olá, eu sou a Larissa! 👋</h1>
     <br />
-    <h3>🚀 Sobre mim</h3>
+    <h3> Sobre mim</h3>
     Gosto de esportes radicais na natureza e correr. Gosto de ler e assistir
     filmes. <br />
     <h3>Formação</h3>
@@ -8,7 +8,7 @@
     de Full Stack Web Developer pela
     <a href="https://www.growdev.com.br/" alt="Growdev"></a>
     <br />
-    <h3>que estou estudando atualmente</h3>
+    <h3> O que estou estudando atualmente</h3>
     Atualmente estou em introdução em Front-end focado em HTML.
     <br />
     <h3>Siga-me</h3>
