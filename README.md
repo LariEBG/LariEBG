@@ -4,7 +4,7 @@
     Gosto de esportes radicais na natureza e correr. Gosto de ler e assistir filmes. 
     <br>
     <h3>Formação</h3>
-    Iniciei graduação em Biologia, mas atualmente entou em processo de fomação de Full Stack Web Developer pela 
+    Atualmente entou em processo de fomação de Full Stack Web Developer pela 
     <a href="https://www.growdev.com.br/">Growdev</a>
     <br>
     <h3>O que estou estudando atualmente</h3>
